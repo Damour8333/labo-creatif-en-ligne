@@ -86,7 +86,7 @@ Un peu difficile de lire la documentation de Sanity ; finalement, je me suis enc
 
 D’abord, il faut créer des fichiers correspondant aux différentes catégories, à placer dans le dossier **schemaTypes**.
 Ensuite, dans le fichier **index.ts**, on importe chaque fichier de catégorie et on l’ajoute au tableau `schema.types` pour qu’il soit pris en compte.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
