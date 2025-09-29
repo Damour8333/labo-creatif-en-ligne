@@ -79,6 +79,14 @@ Voici le processus complet que je voulais suivre :
    * Installer un nouveau **CMS** proprement sur la branche `dev`
    * Continuer à utiliser **Next.js**, **GitHub**, et **Vercel**
    * Suivre un workflow clair pour éviter de se perdre dans l’architecture
+ * 
+
+Reprise du lundi 29 septembre.
+Un peu difficile de lire la documentation de Sanity ; finalement, je me suis encore aidé de ChatGPT, qui m’a permis de comprendre pas mal de choses et de réussir à configurer moi-même le projet.
+
+D’abord, il faut créer des fichiers correspondant aux différentes catégories, à placer dans le dossier **schemaTypes**.
+Ensuite, dans le fichier **index.ts**, on importe chaque fichier de catégorie et on l’ajoute au tableau `schema.types` pour qu’il soit pris en compte.
+
 
 
 
