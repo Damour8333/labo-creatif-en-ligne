@@ -1,6 +1,4 @@
-Parfait, je vais intégrer cette précision et reformuler ton texte **de manière claire et complète**, avec toutes les étapes et la bonne pratique de **créer une nouvelle branche pour ne rien écraser** :
 
----
 
 Le 23 septembre, j’ai commencé par créer un dossier sur le **Bureau**. Ensuite, avec **Visual Studio Code**, j’ai généré une application **Next.js** avec la commande `npx create-next-app`. Le problème, c’est que l’application s’est retrouvée **dans le dossier que j’avais créé en premier**, alors que je voulais qu’elle soit directement sur le Bureau.
 
@@ -82,8 +80,6 @@ Voici le processus complet que je voulais suivre :
    * Continuer à utiliser **Next.js**, **GitHub**, et **Vercel**
    * Suivre un workflow clair pour éviter de se perdre dans l’architecture
 
----
 
-Si tu veux, je peux maintenant te **préparer un guide étape par étape “prêt à l’emploi”**, avec toutes les commandes exactes pour créer ton projet Hop sur **Next.js + GitHub + Vercel + CMS**, en utilisant **une branche dev pour expérimenter**, pour que tu puisses repartir proprement et publier tes créations dès maintenant.
 
 
